@@ -11,7 +11,7 @@ What tools and/or resources are you adding to your support network?
 some of the resources and tools im adding to my support network is TI and is because they have a lot of different and usefull information that allows me to do better specially whenevr i cant find the issue.
 
 What skills from this project will be particularly transferable to other projects and/or course work?
-i think the main skill is looking for a project where it has a base already where i only have tomake adjustments like we did in all the project we had to make small adjustments and updtae whatever we needed like adding the wright libraries and updating the main code.
+i think the main skill is looking for a project where it has a base already where i only have to make adjustments like we did in all the project we had to make small adjustments and update whatever we needed like adding the right libraries and updating the main code.
 
 How did you make this project maintainable, readable, and adaptable?
 i made sure to add comments throught the code to ensure the profesor was able to follow along with outh having any issues of no understanding the project, as well calling the variables the right names and testing ensuring i tested my code multiple times.
